@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607271589 source:c:\users\mac\documents\programs\c programs\sum of all digits\main.c
+	<stdio.h>
+	<stdlib.h>
+
